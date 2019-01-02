@@ -54,3 +54,10 @@ buck-out/
 
 # Bundle artifact
 *.jsbundle
+
+# Virtualenv files and folders
+backend/ambush/bin
+backend/ambush/lib
+backend/ambush/include
+backend/ambush/pip-selfcheck.json
+backend/ambush/__pycache__/
